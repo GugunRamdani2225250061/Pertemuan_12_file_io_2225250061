@@ -28,9 +28,7 @@ Pertemuan_12_file_io_2225250061
 ├── .gitignore
 └── README.md
 ```
-
 ## 3. Format File Input
-
 File `data/nilai.txt` menggunakan format:
 ```text
 NIM,nilai
