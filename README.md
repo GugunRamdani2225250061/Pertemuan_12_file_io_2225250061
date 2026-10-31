@@ -1,4 +1,4 @@
-# Pertemuan 12 – File I/O dan Error Handling
+# Pertemuan 12 File IO
 
 Nama: Gugun Ramdani  
 NIM: 2225250061
@@ -26,7 +26,7 @@ Pertemuan_12_file_io_2225250061
 │   └── 06_value_error.py
 └── tugas/
 │   └── rekap_nilai_file.py
-└──kuis formatfi_pertemuan 12.docx
+└──kuis formatif_pertemuan 12.docx
 ├── .gitignore
 └── README.md
 ```
@@ -39,9 +39,7 @@ NIM,nilai
 A001,85
 A002,78
 A003,92
-A004,abc
-A005,74
-A006,88
+A004,74
 ```
 ## 4. Cara Menjalankan Program
 Jalankan program melalui terminal VS Code dari folder utama proyek.
@@ -60,11 +58,11 @@ python tugas/rekap_nilai_file.py
 
 ## 6. Hasil Rekap Nilai
 Berdasarkan data yang valid, diperoleh:
-- Jumlah data valid: 5
-- Rata-rata: 83,40
-- Nilai minimum: 74
-- Nilai maksimum: 92
-- Jumlah mahasiswa lulus: 5
+- Jumlah data valid: 4
+- Rata-rata: 82.25
+- Minimum: 74.00
+- Maksimum: 92.00
+- Jumlah lulus: 4
 
 ## 7. Test Case
 | Kondisi | Hasil |
