@@ -1,0 +1,7 @@
+HASIL REKAP NILAI MAHASISWA
+===========================
+Jumlah data valid: 4
+Rata-rata: 82.25
+Minimum: 74.00
+Maksimum: 92.00
+Jumlah lulus: 4
