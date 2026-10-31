@@ -1,9 +1,9 @@
 # Pertemuan 12 File IO
 
-Nama: Gugun Ramdani  
-NIM: 2225250061
-Kelas: 3A
-Mata Kuliah: Algoritma dan Pemrograman  
+- Nama: Gugun Ramdani  
+- NIM: 2225250061
+- Kelas: 3A
+- Mata Kuliah: Algoritma dan Pemrograman  
 
 ## 1. Tujuan
 Mempelajari cara membaca, menulis, memvalidasi, mengolah, dan menyimpan data menggunakan file dengan Python.
